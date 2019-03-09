@@ -5,7 +5,7 @@ permalink: /posts/
 title: "Teaching"
 crawlertitle: "Abhiprerna"
 summary: "Posts about teaching experience"
-active: archive
+active: Teaching
 ---
 
 {% for tag in site.tags %}
