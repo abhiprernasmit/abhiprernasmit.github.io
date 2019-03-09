@@ -1,10 +1,10 @@
 ---
-bg: "tag.jpg"
+#bg: "tag.jpg"
 layout: page
 permalink: /posts/
-title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+title: "Teaching"
+crawlertitle: "Abhiprerna"
+summary: "Posts about teaching experience"
 active: archive
 ---
 
