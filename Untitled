@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<!-- Created by Abhiprerna Smit to upload syllabus-->
+<html>
+	<head>
+		<title>Vinod Dharmarajan</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Sidebar -->
+			<section id="sidebar">
+				<div class="inner">
+					<div style="text-align: center;">
+					<a href="#" class="image avatar"><img src="images/self.jpg" alt="" style="width:130px;height:150px;"/></a>
+					<h3>Vinod Dharmarajan </h3><br> <h5> PhD Student in Economics, <br> University of Washington-Seattle </h5>
+					</div>
+					<br>
+					<nav>
+						<ul>
+							<li><a href="#intro">Welcome</a></li>
+							<li><a href="#one">Research</a></li>
+							<li><a href="#two">CV</a></li>
+							<li><a href="#three">Teaching</a></li>
+							<li><a href="#four">Contact</a></li>
+						</ul>
+					</nav>
+				</div>
+
+			</section>
+
+      <!-- Section to add Syllabus -->
+      <section id="three" class="wrapper style1-alt fullscreen fade-up">
+        <div class="inner">
+          <h2 align="center"><font color="#541887">Syllabus</font></h2>
+          <p><font color="#696969">Syllabus for Econ 200B.</font></p>
+          <iframe src="Abhi.pdf" style="width:700px; height:700px;border: none;"></iframe>
+          <br>
+          <h4> <font color="#541887">Syllabus for 200AA</font></h4>
+          <iframe src="Abhi.pdf" style="width:700px; height:700px;border: none;"></iframe>
+        </div>
+      </section>
+
+      <!-- loader -->
+      <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+      <script src="js/jquery.min.js"></script>
+      <script src="js/jquery-migrate-3.0.1.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <script src="js/jquery.easing.1.3.js"></script>
+      <script src="js/jquery.waypoints.min.js"></script>
+      <script src="js/jquery.stellar.min.js"></script>
+      <script src="js/owl.carousel.min.js"></script>
+      <script src="js/jquery.magnific-popup.min.js"></script>
+      <script src="js/aos.js"></script>
+      <script src="js/jquery.animateNumber.min.js"></script>
+      <script src="js/bootstrap-datepicker.js"></script>
+      <script src="js/jquery.timepicker.min.js"></script>
+      <script src="js/scrollax.min.js"></script>
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+      <script src="js/google-map.js"></script>
+      <script src="js/main.js"></script>
+
+      </body>
+    </html>
