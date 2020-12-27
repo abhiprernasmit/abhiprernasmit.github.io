@@ -2642,11 +2642,28 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
-		/* Twitter */
-		.fa-twitter {
-		  background: #55ACEE;
-		  color: white;
+				/* Twitter */
+				.fa-twitter {
+				  background: #55ACEE;
+				  color: white;
+				}
+
+		/* Adding Buttons */
+		.button {
+			background-color: #84b0a6; /* Green */
+			border: none;
+			color: white;
+			padding: 8px 40px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 8px;
 		}
+}
+
 
 		/* Tab space */
 		#t1 {
@@ -2654,23 +2671,48 @@ input, select, textarea {
 		  tab-size: 4;
 		}
 
-		/* Adding Buttons */
-		.button {
-		  background-color: #4CAF50; /* Green */
-		  border: none;
-		  color: white;
-		  padding: 15px 32px;
-		  text-align: center;
-		  text-decoration: none;
-		  display: inline-block;
-		  font-size: 16px;
-		  margin: 4px 2px;
-		  cursor: pointer;
+		details {
+		  font: 16px "Open Sans", Calibri, sans-serif;
+		  width: 620px;
 		}
 
-		.button1 {
-		  background-color: white;
-		  color: #61000;
-		  border: 2px solid #4CAF50;
+		details > summary {
+			background-color: #84b0a6; /* Green */
+			border: none;
+			color: white;
+			padding: 8px 40px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+			border-radius: 8px;
 		}
-	}
+
+		details > summary::-webkit-details-marker {
+		  display: none;
+		}
+
+		details > p {
+			font-family: 'Source Sans Pro', sans-serif;
+			font-size: 12pt;
+			font-weight: 300;
+			line-height: 1.75em;
+			color: black;
+			width: 900px;
+		}
+
+		.floated {
+		  float:left;
+		  margin-right:-450px;
+		}
+
+p17{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 12pt;
+	font-weight: 300;
+	line-height: 1.75em;
+	color: black;
+	width: 900px;
+}
