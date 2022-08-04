@@ -126,7 +126,7 @@ input, select, textarea {
 
 	h8 {
 		font-size: 1em;
-		color: Darkolivegreen;
+		color: #556B2F;
 	}
 
 	hmain {
@@ -134,12 +134,12 @@ input, select, textarea {
 		color: white;
 	}
 
-	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a h8 a {
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		color: inherit;
 		text-decoration: none;
 	}
 
-		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong h8 a strong {
+		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
 			color: #333;
 		}
 
@@ -2724,7 +2724,7 @@ p16{
 	font-size: 12pt;
 	font-weight: 500;
 	line-height: 1.75em;
-	color: Darkolivegreen;
+	color: #556B2F;
 	width: 900px;
 }
 
