@@ -196,7 +196,7 @@ input, select, textarea {
 	.doc-container {
 	   position: relative;
 	   overflow: hidden;
-	   padding-top: 68.25%;
+	   padding-top: 68%;
 	}
 
 	.doc-container iframe {
