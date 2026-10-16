@@ -407,3 +407,15 @@ footer {
 .social-link:hover {
     color: var(--green);
 }
+
+/* Co-authors sit on the title line, in brackets, regular weight */
+.paper h3 .coauthors,
+.paper h3 .coauthors a {
+  font-weight: 400;
+  color: var(--text);
+  text-decoration: none;
+}
+.paper h3 .coauthors a:hover { color: var(--green-dark); text-decoration: underline; }
+
+/* Line up text under working-paper titles (past the arrow) */
+.paper-title-row ~ p { margin-left: 27px; }
